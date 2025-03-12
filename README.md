@@ -1,2 +1,2 @@
 # selenium-waffle
-this is selenium testing
+This is selenium end to end project
